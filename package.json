@@ -1,0 +1,21 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/SanikaLad2110/GitTest#readme",
+  "bugs": {
+    "url": "https://github.com/SanikaLad2110/GitTest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanikaLad2110/GitTest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
